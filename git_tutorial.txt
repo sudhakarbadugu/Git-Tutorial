@@ -1,0 +1,64 @@
+1. git download
+	git for windows --> download --> install.
+	
+Version controller:
+- maintain the source files with version information.
+a.java - commit by suma
+	- commit by sudha
+2 version of a.java in server.
+
+Version controller
+1. Perforce
+2. CVS
+3. SVN
+
+4. Git
+	- 
+..
+
+Project --> repository
+	1. github
+	2. bitbucket
+	
+
+1. checkout/clone the project
+git clone remote url
+git clone https://github.com/sudhakarbadugu/Git-Tutorial.git
+-- Project is downloaded our machine.
+
+2. Existing file modification.
+
+git status
+
+3. Add file to staging
+
+git add filename
+git add Readme.md
+
+4. git commit -m "addding file"
+ -- committed to localbranch.
+ 
+ 
+5. git push
+
+
+----------------------------------------------	
+git bash commands:-
+pwd
+ - present working directory.
+ 
+clear
+- clear the content.
+
+cd
+ - changing directory
+E.g: go d directory from c drive
+	cd D:/
+	
+	cd directoryname
+	-- to move directory
+	cd .. 
+	 - to come back.
+
+ls
+ - to list of files.
