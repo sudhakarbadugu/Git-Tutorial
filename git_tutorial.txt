@@ -41,7 +41,7 @@ git add Readme.md
  
 5. git push
 
-
+6. git pull
 ----------------------------------------------	
 git bash commands:-
 pwd
