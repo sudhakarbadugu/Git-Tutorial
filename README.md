@@ -8,3 +8,6 @@ git tutorial
 4. push
 
 5. create new file and commit
+
+
+6. Checkout using gui.
