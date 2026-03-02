@@ -1,46 +1,61 @@
-# Git & GitHub Tutorial for Beginners
+# The Ultimate Git & GitHub Tutorial
 
-## Project Overview
+Welcome to the ultimate guide to mastering Git and GitHub! This repository is designed to be a comprehensive, production-quality learning resource for developers of all levels. Whether you're a complete beginner or looking to solidify your understanding of industry-standard workflows, this tutorial has you covered.
 
-Welcome to the Git & GitHub Tutorial! This repository is designed to be a comprehensive, hands-on guide for beginners and intermediate developers looking to master version control with Git and collaboration with GitHub. The tutorial is structured to take you from the absolute basics of what version control is, all the way to real-world workflows and best practices.
+## Why This Tutorial?
 
-## Who This Tutorial Is For
-
-This tutorial is for:
-
-- **Absolute Beginners:** If you've never used Git before, this is the perfect place to start.
-- **Students:** Learn the essential tools used in the software development industry.
-- **Developers:** Refresh your knowledge and learn best practices.
-- **Self-Taught Programmers:** Add a crucial and highly sought-after skill to your portfolio.
+- **Beginner-Friendly:** Starts with the absolute basics and builds up complexity gradually.
+- **Industry-Aligned:** Focuses on the workflows and best practices used in professional development teams.
+- **Structured for Self-Learning:** Each section builds on the previous one, with clear explanations and hands-on exercises.
+- **Portfolio-Ready:** By completing this tutorial, you will have a solid project to showcase your understanding of modern version control.
 
 ## Table of Contents
 
-1.  [Introduction to Git](./docs/01-Introduction-to-Git.md)
-2.  [Installing and Configuring Git](./docs/02-Installing-and-Configuring-Git.md)
-3.  [Basic Git Commands](./docs/03-Basic-Git-Commands.md)
-4.  [Working with Branches](./docs/04-Working-with-Branches.md)
-5.  [Remote Repositories and GitHub](./docs/05-Remote-Repositories-and-GitHub.md)
-6.  [Merge Conflicts and Undoing Changes](./docs/06-Merge-Conflicts-and-Undoing-Changes.md)
-7.  [Git Best Practices](./docs/07-Git-Best-Practices.md)
-8.  [Real-World Workflow Example](./docs/08-Real-World-Workflow-Example.md)
-9.  [Git Cheat Sheet & Mini-Project](./docs/09-Git-Cheat-Sheet.md)
+### Part 1: Introduction
+- [01-introduction/01-what-is-version-control.md](./docs/01-introduction/01-what-is-version-control.md)
+- [01-introduction/02-what-is-git.md](./docs/01-introduction/02-what-is-git.md)
+- [01-introduction/03-git-vs-github.md](./docs/01-introduction/03-git-vs-github.md)
 
-## How to Use This Repository
+### Part 2: Getting Started
+- [02-getting-started/01-installing-git.md](./docs/02-getting-started/01-installing-git.md)
+- [02-getting-started/02-configuring-git.md](./docs/02-getting-started/02-configuring-git.md)
+- [02-getting-started/03-your-first-repository.md](./docs/02-getting-started/03-your-first-repository.md)
 
-1.  **Clone the Repository:** Start by cloning this repository to your local machine.
-    ```bash
-    git clone <this-repo-url>
-    ```
-2.  **Go Through Each Section:** Read through the markdown files in the `docs` folder in chronological order.
-3.  **Do the Exercises:** Each section ends with practice exercises. It is highly recommended to complete them to solidify your understanding.
-4.  **Complete the Mini-Project:** The final section includes a mini-project that simulates a real-world scenario. Completing this will prove you have a solid grasp of the fundamentals.
+### Part 3: Basic Commands
+- [03-basic-commands/01-the-staging-area.md](./docs/03-basic-commands/01-the-staging-area.md)
+- [03-basic-commands/02-making-commits.md](./docs/03-basic-commands/02-making-commits.md)
+- [03-basic-commands/03-viewing-history.md](./docs/03-basic-commands/03-viewing-history.md)
+- [03-basic-commands/04-ignoring-files.md](./docs/03-basic-commands/04-ignoring-files.md)
 
-## Contribution Guidelines
+### Part 4: Branching and Merging
+- [04-branching-and-merging/01-what-are-branches.md](./docs/04-branching-and-merging/01-what-are-branches.md)
+- [04-branching-and-merging/02-merging-branches.md](./docs/04-branching-and-merging/02-merging-branches.md)
+- [04-branching-and-merging/03-merge-conflicts.md](./docs/04-branching-and-merging/03-merge-conflicts.md)
 
-Contributions are welcome! If you find any errors, typos, or areas for improvement, please feel free to open an issue or submit a pull request.
+### Part 5: Remote Repositories
+- [05-remote-repositories/01-working-with-remotes.md](./docs/05-remote-repositories/01-working-with-remotes.md)
+- [05-remote-repositories/02-fetching-and-pulling.md](./docs/05-remote-repositories/02-fetching-and-pulling.md)
+- [05-remote-repositories/03-pushing-code.md](./docs/05-remote-repositories/03-pushing-code.md)
+- [05-remote-repositories/04-github-pull-requests.md](./docs/05-remote-repositories/04-github-pull-requests.md)
 
-1.  **Fork** the repository.
-2.  Create a new **branch** for your changes (`git switch -c fix/some-typo`).
-3.  Make your changes and **commit** them with a clear commit message.
-4.  **Push** your branch to your fork.
-5.  Open a **Pull Request** to the `main` branch of this repository.
+### Part 6: Advanced Git
+- [06-advanced-git/01-interactive-rebasing.md](./docs/06-advanced-git/01-interactive-rebasing.md)
+- [06-advanced-git/02-merging-vs-rebasing.md](./docs/06-advanced-git/02-merging-vs-rebasing.md)
+- [06-advanced-git/03-cherry-picking.md](./docs/06-advanced-git/03-cherry-picking.md)
+- [06-advanced-git/04-reset-and-revert.md](./docs/06-advanced-git/04-reset-and-revert.md)
+
+### Part 7: Workflows and Best Practices
+- [07-workflows-and-best-practices/01-feature-branch-workflow.md](./docs/07-workflows-and-best-practices/01-feature-branch-workflow.md)
+- [07-workflows-and-best-practices/02-gitflow-overview.md](./docs/07-workflows-and-best-practices/02-gitflow-overview.md)
+- [07-workflows-and-best-practices/03-writing-good-commit-messages.md](./docs/07-workflows-and-best-practices/03-writing-good-commit-messages.md)
+- [07-workflows-and-best-practices/04-keeping-a-clean-history.md](./docs/07-workflows-and-best-practices/04-keeping-a-clean-history.md)
+- [07-workflows-and-best-practices/05-protected-branches.md](./docs/07-workflows-and-best-practices/05-protected-branches.md)
+
+### Part 8: Extras
+- [08-extras/01-troubleshooting-guide.md](./docs/08-extras/01-troubleshooting-guide.md)
+- [08-extras/02-common-interview-questions.md](./docs/08-extras/02-common-interview-questions.md)
+- [08-extras/03-git-cheat-sheet.md](./docs/08-extras/03-git-cheat-sheet.md)
+
+## How to Contribute
+
+Contributions are welcome! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to get started.
