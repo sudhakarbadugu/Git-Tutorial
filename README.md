@@ -62,6 +62,9 @@ New to Git? [Start here for a 10-minute introduction to the basics!](./docs/00-q
 - [08-extras/02-common-interview-questions.md](./docs/08-extras/02-common-interview-questions.md)
 - [08-extras/03-git-cheat-sheet.md](./docs/08-extras/03-git-cheat-sheet.md)
 
+### Part 9: Real-World Scenarios
+- [09-real-world-scenarios/01-exercises.md](./docs/09-real-world-scenarios/01-exercises.md)
+
 ## How to Contribute
 
 Contributions are welcome! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to get started.

@@ -11,6 +11,8 @@ This command will tell you which files are:
 *   **Modified:** Tracked files that have been changed.
 *   **Staged:** Modified files that you have marked to go into your next commit.
 
+![Git Status and Add](../../assets/images/git-status-add.png)
+
 ## Tracking New Files
 
 To start tracking a new file, you use the `git add` command. This command adds the file to the staging area.

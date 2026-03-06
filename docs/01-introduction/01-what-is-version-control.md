@@ -7,7 +7,12 @@ Version Control Systems (VCS) are tools that automate this process. They help yo
 There are two main types of VCS:
 
 1.  **Centralized Version Control Systems (CVCS):** A single central server contains all the versions of the files. (e.g., Subversion, Perforce).
+
+![Centralized Version Control System Diagram](../../assets/images/Centralized%20version%20control%20system%20diagram.png)
+
 2.  **Distributed Version Control Systems (DVCS):** Every developer has a full copy of the entire repository on their local machine. (e.g., Git, Mercurial).
+
+![Distributed Version Control System Diagram](../../assets/images/Distributed%20version%20control%20system%20diagram.png)
 
 Git is a Distributed Version Control System.
 

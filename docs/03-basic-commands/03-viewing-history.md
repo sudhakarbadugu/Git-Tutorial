@@ -6,6 +6,8 @@ To see the history of commits for a repository, you can use the `git log` comman
 
 This will show you a list of all the commits in reverse chronological order.
 
+![Git Commit Graph](../../assets/images/git-commit-graph.png)
+
 ## Viewing the Differences
 
 The `git diff` command is used to see the changes you've made to your files.
