@@ -65,6 +65,9 @@ New to Git? [Start here for a 10-minute introduction to the basics!](./docs/00-q
 ### Part 9: Real-World Scenarios
 - [09-real-world-scenarios/01-exercises.md](./docs/09-real-world-scenarios/01-exercises.md)
 
+### Part 10: Interview Questions
+- [10-interview-questions/01-advanced-interview-questions.md](./docs/10-interview-questions/01-advanced-interview-questions.md)
+
 ## How to Contribute
 
 Contributions are welcome! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to get started.
