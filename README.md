@@ -1,6 +1,12 @@
+![Git Tutorial Banner](./assets/images/github-tutorial-poster.png)
+
 # The Ultimate Git & GitHub Tutorial
 
 Welcome to the ultimate guide to mastering Git and GitHub! This repository is designed to be a comprehensive, production-quality learning resource for developers of all levels. Whether you're a complete beginner or looking to solidify your understanding of industry-standard workflows, this tutorial has you covered.
+
+## 🚀 10-Minute Quick Start
+
+New to Git? [Start here for a 10-minute introduction to the basics!](./docs/00-quick-start/00-quick-start.md)
 
 ## Why This Tutorial?
 
