@@ -8,6 +8,15 @@ Welcome to the ultimate guide to mastering Git and GitHub! This repository is de
 
 New to Git? [Start here for a 10-minute introduction to the basics!](./docs/00-quick-start/00-quick-start.md)
 
+## Who Is This Tutorial For?
+
+This guide is designed for a wide range of individuals, from complete novices to experienced developers looking to refine their skills.
+
+-   **Absolute Beginners:** If you've never used version control before, this tutorial will take you from the ground up, starting with the most fundamental concepts and commands.
+-   **Students & Aspiring Developers:** This is a portfolio-ready project that will help you build a solid foundation in the tools used by every professional software team.
+-   **Experienced Developers:** If you're looking to refresh your knowledge, learn best practices, or master advanced features like interactive rebasing and GitFlow, this tutorial provides a structured path to do so.
+-   **Teams & Engineering Managers:** This repository can be used as a standardized training resource to onboard new hires and ensure your team is aligned on industry-standard workflows.
+
 ## Why This Tutorial?
 
 - **Beginner-Friendly:** Starts with the absolute basics and builds up complexity gradually.
@@ -67,6 +76,9 @@ New to Git? [Start here for a 10-minute introduction to the basics!](./docs/00-q
 
 ### Part 10: Interview Questions
 - [10-interview-questions/01-advanced-interview-questions.md](./docs/10-interview-questions/01-advanced-interview-questions.md)
+
+### Part 11: Visual Workflows
+- [11-visual-workflows/01-git-visual-workflows.md](./docs/11-visual-workflows/01-git-visual-workflows.md)
 
 ## How to Contribute
 
